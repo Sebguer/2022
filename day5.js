@@ -119,8 +119,6 @@ function moveCrates(howMany, from, to){
     moveObjects(howMany, fromStack, toStack)
 }
 
-
-
 function getStack(num) {
     let stack = '';
   
